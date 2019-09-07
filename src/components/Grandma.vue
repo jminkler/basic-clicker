@@ -29,7 +29,6 @@ export default {
             'buyGrandma'
         ]),
         bake() {
-            console.log(this.grandmas)
             this.bakeCookie(this.cookiesPerSecond * this.grandmas)
         },
         buy() {
