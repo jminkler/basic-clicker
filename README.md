@@ -1,5 +1,9 @@
 # basic-clicker
 
+For fun, worked with my teeange son to teach him vuejs by creating a game based on the popular Cookie Clicker 
+
+
+
 ## Project setup
 ```
 yarn install
