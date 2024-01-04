@@ -2,6 +2,7 @@
   <div class="home">
     <cookie></cookie>
     <grandma></grandma>
+    Bake those cookies!
   </div>
 </template>
 
